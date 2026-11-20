@@ -1,0 +1,15 @@
+[
+  {"claim": "The Great Wall of China is visible from the Moon with the naked eye.", "label": "Contradicted"},
+  {"claim": "Humans only use 10 percent of their brains.", "label": "Contradicted"},
+  {"claim": "Lightning never strikes the same place twice.", "label": "Contradicted"},
+  {"claim": "Vitamin C cures the common cold.", "label": "Contradicted"},
+  {"claim": "5G towers spread the coronavirus.", "label": "Contradicted"},
+  {"claim": "Sugar makes children hyperactive.", "label": "Contradicted"},
+  {"claim": "The World Health Organization declared COVID-19 a pandemic in March 2020.", "label": "Supported"},
+  {"claim": "India's Chandrayaan-3 landed near the Moon's south pole in August 2023.", "label": "Supported"},
+  {"claim": "The Eiffel Tower was completed in 1889.", "label": "Supported"},
+  {"claim": "Mount Everest is the highest mountain above sea level.", "label": "Supported"},
+  {"claim": "Water boils at 100 degrees Celsius at standard atmospheric pressure.", "label": "Supported"},
+  {"claim": "The mayor of the fictional town of Zorblax Falls secretly owns 14 yachts.", "label": "Insufficient Evidence"},
+  {"claim": "A man in Pune named Raju Tembhurne trained a parrot to speak fluent Latin in 2021.", "label": "Insufficient Evidence"}
+]
